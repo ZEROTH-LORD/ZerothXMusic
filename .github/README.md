@@ -6,6 +6,7 @@
   <img src="https://telegra.ph/file/aa7a9473ad446299b3bac.jpg">
 </p>
 
+<h3 align="center">
     ─「 DEPLOY ON LOCAL HOST/VPS 」─
 </h3>
 
