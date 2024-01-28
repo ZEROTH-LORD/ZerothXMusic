@@ -6,7 +6,7 @@
   <img src="https://telegra.ph/file/aa7a9473ad446299b3bac.jpg">
 </p>
 
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+    ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏʟᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h3>
 
 - Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
