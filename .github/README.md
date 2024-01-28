@@ -6,7 +6,7 @@
   <img src="https://telegra.ph/file/aa7a9473ad446299b3bac.jpg">
 </p>
 
-    ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏʟᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
+    ─「 DEPLOY ON LOCAL HOST/VPS 」─
 </h3>
 
 - Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
@@ -42,10 +42,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Alpha_Bots_Support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Alpha_Bots_Updates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
