@@ -5,11 +5,11 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from AnonXMusic import LOGGER, app, userbot
-from AnonXMusic.core.call import Anony
-from AnonXMusic.misc import sudo
-from AnonXMusic.plugins import ALL_MODULES
-from AnonXMusic.utils.database import get_banned_users, get_gbanned
+from ZerothXMusic import LOGGER, app, userbot
+from ZerothXMusic.core.call import Anony
+from ZerothXMusic.misc import sudo
+from ZerothXMusic.plugins import ALL_MODULES
+from ZerothXMusic.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
 
 
